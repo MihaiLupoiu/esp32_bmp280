@@ -1,8 +1,5 @@
 ## SPI master read BME280
 
-This code displays a simple graphics with varying pixel colors on the 320x240 LCD on an ESP-WROVER-KIT board.
-
-
 Sample code for reading values from a BME280 via ESP-IDF's SPI master driver
 ====================
 
