@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "spi_master.h": "c",
+        "bmp280.h": "c"
+    }
+}
